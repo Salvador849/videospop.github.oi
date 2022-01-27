@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+}
+html{
+    box-sizing: border-box;
+    
+}
+.hero{
+    background: red;
+ height: 100px;
+}
